@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.App_Financeiro" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/finance_primary</item>
+        <item name="colorSecondary">@color/finance_secondary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/finance_background</item>
+    </style>
+
+    <style name="Theme.App_Financeiro" parent="Base.Theme.App_Financeiro" />
+
+</resources>

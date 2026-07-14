@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="finance_primary">#1565C0</color>
+    <color name="finance_primary_dark">#0D47A1</color>
+    <color name="finance_secondary">#42A5F5</color>
+
+    <color name="finance_income">#2E7D32</color>
+    <color name="finance_expense">#C62828</color>
+
+    <color name="finance_background">#FAFAFA</color>
+    <color name="finance_text">#212121</color>
+    <color name="finance_text_light">#757575</color>
+</resources>
